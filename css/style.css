@@ -1,0 +1,21 @@
+.title-1{
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+}
+.title-2{
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(233, 173, 10);
+}
+
+.sButton{
+    background-color: rgb(59, 16, 177);
+    color: white;
+}
+.sButton:hover
+{
+    background-color: rgb(1, 112, 112);
+    color: white;
+    transform: translate(0.8);
+}
